@@ -22,13 +22,13 @@ Local processing (privacy-safe)
 
 
 
-###### **Install dependencies**
+**Install dependencies**
 
 pip install flask transformers torch
 
 
 
-###### **Run the application**
+**Run the application**
 
 python app.py
 
